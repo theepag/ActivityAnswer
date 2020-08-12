@@ -1,4 +1,4 @@
-package Bridge;
+
 
 public class RemoteControl  {
     protected Device device;
