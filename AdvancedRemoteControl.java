@@ -1,4 +1,3 @@
-package Bridge;
 
 public class AdvancedRemoteControl extends RemoteControl{
 
