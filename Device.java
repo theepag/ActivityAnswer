@@ -1,4 +1,4 @@
-package Bridge;
+
 
 public interface Device {
     void turnOn();
